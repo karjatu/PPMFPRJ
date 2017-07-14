@@ -1,5 +1,5 @@
 # PPMFPRJ
-Porcupine-Multifire Project
+Porcupine-Multifire Project <EDIT THIS FILE, NOT MASTER>
 
 the Project consist both the creation of the pilot-fund and the development project for creation number of non-correlating,  mostly machine driven strategies for the fund
 
